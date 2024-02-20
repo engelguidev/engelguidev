@@ -1,6 +1,6 @@
 # 💫 About Me:
 Olá! Eu sou o Guilherme Engel! Seja bem-vindo! <br>
-💻 Desenvolvedor Python, Django, MySQL. <br>🔭 Estudando DB com foco em Data Science.<br>
+💻 Desenvolvedor Python, Django, MySQL, Flask <br>🔭 Estudando DB com foco em Data Science.<br>
 
 
 ## 🌐 Socials:
