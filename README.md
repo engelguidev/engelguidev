@@ -1,6 +1,7 @@
 # 💫 About Me:
 Olá! Eu sou o Guilherme Engel! Seja bem-vindo! <br>
-💻 Desenvolvedor Backend | .NET | Python | SQL<br>
+💻 Desenvolvedor Backend | Python | .NET | SQL | REST API | Integração de Sistemas<br>
+🚀 Foco em APIs modernas, comunicação em tempo real, biometria e soluções com IA
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/guilherme.engel.1) 
@@ -9,8 +10,9 @@ Olá! Eu sou o Guilherme Engel! Seja bem-vindo! <br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4CAF50?style=for-the-badge&logo=websocket&logoColor=white)
+![SSE](https://img.shields.io/badge/SERVER%20SENT%20EVENTS-1976D2?style=for-the-badge&logo=serverless&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Razor Pages](https://img.shields.io/badge/RAZOR-PAGES-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
@@ -21,6 +23,31 @@ Olá! Eu sou o Guilherme Engel! Seja bem-vindo! <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+# 🔐 Biometria:
+![Biometria Digital](https://img.shields.io/badge/Biometria-Digital-1976D2?style=for-the-badge&logo=fingerprint&logoColor=white)
+![Biometria Facial](https://img.shields.io/badge/Biometria-Facial-FF5722?style=for-the-badge&logo=face-recognition&logoColor=white)
+![Emgu.CV](https://img.shields.io/badge/Emgu.CV-512BD4?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+# 🖥️ IoT & Hardware:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+# 📈 Observabilidade:
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+# 🤖 AI & Machine Learning:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=engelguidev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
